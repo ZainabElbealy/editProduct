@@ -1,0 +1,22 @@
+.product-table{
+    margin-top: 4em;
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+    justify-content: space-between;
+    height: 20vh;
+}
+
+.items-table{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.products-btns{
+    display: flex;
+    align-items: baseline;
+    justify-content: space-evenly;
+    flex-basis: 50%;
+}
